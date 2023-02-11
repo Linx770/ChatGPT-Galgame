@@ -1,4 +1,4 @@
-# chatgpt-galgame
+# ChatGPT-Galgame
 本攻略用于chatgpt的猫娘调教及角色扮演
 
 ## 前期准备
