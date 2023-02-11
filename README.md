@@ -3,7 +3,7 @@
 
 ## 前期准备
 1.账号注册：账号的事情就不再多提了，请大家自行注册；  
-2.系统版本：目前使用的是ChatGPT 3.5(Jan 30 2023)；  
+2.系统版本：目前使用的是ChatGPT 3.5(Jan 30 2023)，Feb 11 2023测试有效；  
 3.插件准备：插件是为了避免Web前端的Ethic黄框警告，插件参考https://github.com/bigemon/ChatGPT-ToolBox ，也可直接通过油猴安装https://greasyfork.org/zh-CN/scripts/456901-chatgpt%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA  
 
 ## 详细说明
